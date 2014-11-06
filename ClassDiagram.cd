@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aluguer" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Aluguer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bicicleta" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Bicicleta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeSharing">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEEAAAACAAAQBAAEAAAAAAAAAAAAAAAAAAAARAA=</HashCode>
+      <FileName>BikeSharing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cliente" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAgAAAAACAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cliente.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Estacao" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estacao.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fornecedor" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgAAAAA=</HashCode>
+      <FileName>Fornecedor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
